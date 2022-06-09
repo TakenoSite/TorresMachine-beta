@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/TraceMachine/static/css/main.ed224d6e.css",
+    "main.js": "/TraceMachine/static/js/main.b555d3fe.js",
+    "static/js/787.29af8fe6.chunk.js": "/TraceMachine/static/js/787.29af8fe6.chunk.js",
+    "static/media/Hauru_Previwe_3.png": "/TraceMachine/static/media/Hauru_Previwe_3.c7b6490687c788e7c68c.png",
+    "static/media/Hauru_Previwe_2.png": "/TraceMachine/static/media/Hauru_Previwe_2.e38dc485444c7091d168.png",
+    "static/media/Hauru_Previwe_1.png": "/TraceMachine/static/media/Hauru_Previwe_1.93a8d2a40d94cc68b3a4.png",
+    "static/media/Mach.png": "/TraceMachine/static/media/Mach.a931938c4d8d8722b40c.png",
+    "static/media/Mach_Previwe_3.png": "/TraceMachine/static/media/Mach_Previwe_3.622f6426e6882418346d.png",
+    "static/media/Mach_Previwe_2.png": "/TraceMachine/static/media/Mach_Previwe_2.6af59bc8ab743e565ce3.png",
+    "static/media/Mach_Previwe_1.png": "/TraceMachine/static/media/Mach_Previwe_1.ec51e4e763c4e6ce04e8.png",
+    "static/media/Hauru.png": "/TraceMachine/static/media/Hauru.d4abde5b6e74b9bfb896.png",
+    "static/media/Previwe_1.png": "/TraceMachine/static/media/Previwe_1.cd2dcad5999eb745e51b.png",
+    "static/media/Previwe_2.png": "/TraceMachine/static/media/Previwe_2.c9846b58446b28319f78.png",
+    "static/media/Previwe_3.png": "/TraceMachine/static/media/Previwe_3.865b285a09fbeeb036d0.png",
+    "static/media/Original_1.jpg": "/TraceMachine/static/media/Original_1.83d84908570a88d1e9e0.jpg",
+    "static/media/Bach_Previwe_3.png": "/TraceMachine/static/media/Bach_Previwe_3.83665e459188ac058e62.png",
+    "static/media/Bach_Previwe_2.png": "/TraceMachine/static/media/Bach_Previwe_2.d7e19003bb9c9d1cdfe6.png",
+    "static/media/Bach_Previwe_1.png": "/TraceMachine/static/media/Bach_Previwe_1.27148f87613c917f38fd.png",
+    "static/media/Bach.jpg": "/TraceMachine/static/media/Bach.53f45cf67860cf709bf8.jpg",
+    "static/media/Totoro2.png": "/TraceMachine/static/media/Totoro2.f53b19d609bc1e152965.png",
+    "index.html": "/TraceMachine/index.html",
+    "main.ed224d6e.css.map": "/TraceMachine/static/css/main.ed224d6e.css.map",
+    "main.b555d3fe.js.map": "/TraceMachine/static/js/main.b555d3fe.js.map",
+    "787.29af8fe6.chunk.js.map": "/TraceMachine/static/js/787.29af8fe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed224d6e.css",
+    "static/js/main.b555d3fe.js"
+  ]
+}
